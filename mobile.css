@@ -1,0 +1,16 @@
+nav{
+    border-radius: 5px;
+padding: 10px 0;
+font-size: 12px;
+}
+
+.logo img{
+width: 100px;
+height: 40px;
+}
+
+nav ul a:hover{
+color: #fff;
+transition: 0.5s ease;
+
+}
